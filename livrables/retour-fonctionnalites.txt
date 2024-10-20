@@ -1,0 +1,19 @@
+
+* Le nom du fichier n'est pas le bon !
+* Le document sujets.pdf n'a pas été déplacé !
+* Le nom de l'équipe est AB4.
+
+* Difficile de retrouver clairement les éléments demandés dans votre texte :
+  fonctionnalités et scénarios en particulier.
+
+Fonctionnalités :
+
+* Les fonctionnalités n'apparaissent pas explicitement.
+
+Interface utilisateur :
+
+* OK
+
+Scénario :
+
+* bof
